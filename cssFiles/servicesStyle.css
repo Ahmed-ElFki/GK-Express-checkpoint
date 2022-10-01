@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Fira Code";
+}
+
+.nav-menu-container {
+  width: 100%;
+  display: block;
+}
+
+.brand-icon {
+  width: 10%;
+  height: auto;
+}

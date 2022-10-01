@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/PizzaParadiseHome.jpg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Fira Code";
+}
+
+.nav-menu-container {
+  width: 100%;
+  display: block;
+}
+
+.brand-icon {
+  width: 10%;
+  height: auto;
+}
+
+.service-access-presentation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 130px;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: #323a45;
+  width: 1000px;
+  text-align: center;
+}

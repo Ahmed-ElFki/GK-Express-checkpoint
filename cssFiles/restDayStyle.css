@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/resting.jpg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Fira Code";
+}
+
+.nav-menu-container {
+  width: 100%;
+  display: block;
+}
+
+.brand-icon {
+  width: 10%;
+  height: auto;
+}
+
+.working-days-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  margin-top: 15%;
+  font-size: 60px;
+  font-weight: bold;
+  color: #ffde00;
+  width: 1000px;
+  text-align: center;
+}

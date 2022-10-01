@@ -1,0 +1,17 @@
+body {
+  background-image: url("../images/contact-work-in-progress.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: "Fira Code";
+}
+
+.nav-menu-container {
+  width: 100%;
+  display: block;
+}
+
+.brand-icon {
+  width: 10%;
+  height: auto;
+}
